@@ -124,3 +124,6 @@ deep convolutional networks. IEEE TPAMI, 38(2):295–307, 2016. 1, 2
 [11] Michael Elad and Arie Feuer. Restoration of a single superresolution image from several
 blurred, noisy, and undersampled measured images. IEEE transactions on image processing,
 6(12):1646–1658, 1997. 1, 2, 3
+
+Data Set : CIFAR-10
+Super Resolution images generator: ESRGAN (refereced form  - https://github.com/xinntao/ESRGAN)
